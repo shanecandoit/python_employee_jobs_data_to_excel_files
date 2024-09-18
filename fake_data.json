@@ -1,0 +1,82 @@
+[
+  {
+    "name": "John Doe",
+    "title": "Software Engineer",
+    "email": "johnd@example.com",
+    "experience": [
+      {
+        "company": "Goosoft Corporation",
+        "role": "Senior Developer",
+        "start_date": "2022-12-31",
+        "end_date": "2022-12-31",
+        "skills": ["Python", "JavaScript", "Django", "GCP", "Kubernetes"]
+      },
+      {
+        "company": "Acme Corporation",
+        "role": "Junior Developer",
+        "start_date": "2020-01-01",
+        "end_date": "2022-12-31",
+        "skills": ["Python", "JavaScript", "Django"]
+      },
+      {
+        "company": "TechCo",
+        "role": "Full Stack Developer",
+        "start_date": "2023-01-01",
+        "end_date": "present",
+        "skills": ["React", "Node.js", "SQL"]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Bachelor of Science",
+        "major": "Computer Science",
+        "university": "State University",
+        "graduation_date": "2019-05-01"
+      }
+    ],
+    "skills": ["Git", "Agile", "AWS"]
+  },
+  {
+    "name": "Jane Smith",
+    "title": "Data Analyst",
+    "email": "jane_s@example.com",
+    "experience": [
+      {
+        "company": "Goosoft Corporation",
+        "role": "Senior Developer",
+        "start_date": "2022-12-31",
+        "end_date": "2022-12-31",
+        "skills": ["Python", "JavaScript", "Django", "GCP", "Kubernetes"]
+      },
+      {
+        "company": "Acme Corporation",
+        "role": "Junior Developer",
+        "start_date": "2020-01-01",
+        "end_date": "2022-12-31",
+        "skills": ["Python", "JavaScript", "Django"]
+      },
+      {
+        "company": "TechCo",
+        "role": "Full Stack Developer",
+        "start_date": "2023-01-01",
+        "end_date": "present",
+        "skills": ["React", "Node.js", "SQL"]
+      }
+    ]
+  },
+  {
+    "name": "Michael Johnson",
+    "title": "Project Manager",
+    "email": "Michael_j@example.com"
+  },
+  {
+    "name": "Emily Davis",
+    "title": "UI/UX Designer",
+    "email": "emily_davis@example.com"
+  },
+  {
+    "name": "Christopher Brown",
+    "title": "Sales Representative",
+    "email": "christopher_brown@example.com"
+  }
+]
