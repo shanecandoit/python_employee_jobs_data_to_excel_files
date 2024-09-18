@@ -61,3 +61,7 @@ The script typically consists of the following steps:
 - Excel Sheet Structure: Customize the layout and content of the Excel files to suit your needs.
 - Data Validation: Implement data validation checks to ensure the integrity of the JSON data and Excel output.
 - Error Handling?: DIY. Consider adding error handling mechanisms to gracefully handle potential exceptions, such as invalid JSON data or file I/O errors.
+
+### Screen shot
+
+![Screenshot of your project](screenshot.png)

@@ -89,7 +89,10 @@ fake_data = """
 ]
 """
 
+# read from the json in this file
 data = json.loads(fake_data)
+# or read from a json file
+# data = json.load(open("fake_data.json"))
 
 def clean(text, make_lower=True):
     text = text.strip().replace(" ", "_")
