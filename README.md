@@ -64,4 +64,4 @@ The script typically consists of the following steps:
 
 ### Screen shot
 
-![Screenshot of your project](screenshot.png)
+![Screenshot showing excel data](screenshot.png)
